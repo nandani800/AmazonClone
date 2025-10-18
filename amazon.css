@@ -18,7 +18,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("amo.jpg");
+    background-image: url("imgAmazon/amo.jpg");
      background-size: cover;
     height: 50px;
     width: 100%;
@@ -124,7 +124,7 @@ span{
 }
 /* hero */
 .hero-section{
-    background-image: url("hero-image.jpg");
+    background-image: url("imgAmazon/hero-image.jpg");
     background-size: cover;
     height: 300px;
     display: flex;
@@ -188,7 +188,7 @@ span{
    
     height: 80px;
     width:45%;
-    background-image: url("clining.jpg");
+    background-image: url("imgAmazon/clining.jpg");
      margin: 10px 10px 0px; 
 }
 .text-content{
@@ -238,7 +238,7 @@ ul a{
     align-items: center;
 }
 .logo{
-      background-image: url("amo.jpg");
+      background-image: url("imgAmazon/amo.jpg");
      background-size: cover;
     height: 50px;
     width: 100px;
